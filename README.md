@@ -1,5 +1,5 @@
 # 장정훈
-오픈소스 및 기초설계 관련 아이디어&amp;보고
-프로그램 제안서
-날씨와 기온에 따른 옷 추천
-많은 데이터 효과적으로 정리 필요
+Welcome to my project page.
+My name is 장정훈.
+#Project
+오픈소스기초설계
